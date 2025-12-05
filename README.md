@@ -3,7 +3,7 @@ My name
 ## Heading 2   
 Fav hobby
 ### Heading 3  
----  
+---
 School management
 #### Heading 4  
 YIBS
