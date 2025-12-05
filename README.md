@@ -1,6 +1,12 @@
-# Heading 1  
+# Heading 1 
+My name
 ## Heading 2  
+Fav hobby
 ### Heading 3  
+School management
 #### Heading 4  
+YIBS
 ##### Heading 5  
+jk
 ###### Heading 6  
+hey
