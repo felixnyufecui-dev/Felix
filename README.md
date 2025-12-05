@@ -1,8 +1,9 @@
-# Heading 1 
+# Heading 1  
 My name
-## Heading 2  
+## Heading 2   
 Fav hobby
 ### Heading 3  
+___  
 School management
 #### Heading 4  
 YIBS
